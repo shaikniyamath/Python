@@ -1,6 +1,6 @@
 # Python 🐍
 Learning Python, Collection of Python scripts. 🌠
-
+ 
 # Learning
 https://www.python.org/
 
