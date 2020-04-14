@@ -22,3 +22,5 @@ https://github.com/python/cpython
 
 # Information 
 https://en.wikipedia.org/wiki/Python_(programming_language)
+
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-r1-blue)](https://github.com/r1)
