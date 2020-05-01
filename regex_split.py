@@ -1,5 +1,5 @@
 import re
 
 txt = "I love code"
-x = re.split("\s", txt)
+x = re.split(r"\s", txt)
 print(x) 
